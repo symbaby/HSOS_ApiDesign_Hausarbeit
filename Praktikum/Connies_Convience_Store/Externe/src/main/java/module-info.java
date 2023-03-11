@@ -1,0 +1,3 @@
+module Externe {
+    requires Ware;
+}
